@@ -1,30 +1,96 @@
-<h1 align="center">Hi 👋, I'm Ronit Shetty</h1>
-<h3 align="center">A passionate Computer Engineer from India, aspiring to become an AI/ML engineer!</h3>
+# 💫 About Me: Ronit Shetty
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitshetty&label=Profile%20views&color=0e75b6&style=flat" alt="ronitshetty" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ronit%20Shetty&fontSize=80&fontAlignY=35&desc=B.Tech%20Computer%20Engineering%20%40%20NMIMS&descAlignY=60&descAlign=50" alt="Ronit Shetty Header"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronitshetty" alt="ronitshetty" /></a> </p>
+<br>
 
-- 🔭 I’m currently working on [Itinerary Generator, Microservices](https://github.com/RonitShetty/MA_PROJ)
+### 👋 Who am I?
 
-- 🌱 I’m currently learning **Machine learning, Microservices and Architecture**
+I am a **Computer Engineering Student (B.Tech)** at **NMIMS University** (CGPA: 3.69/4) with a strong foundation in building scalable systems. My expertise ranges from **Microservices Architecture** using Spring Boot to **Machine Learning** pipelines and **Reinforcement Learning** models.
 
-- 👨‍💻 All of my projects are available at [https://github.com/RonitShetty](https://github.com/RonitShetty)
+I actively participate in hackathons (like **Walmart Sparkathon 2025**) and enjoy solving complex problems involving data analytics, security, and automation.
 
-- 💬 Ask me about **EDA, Python, Java**
+- 🔭 **Currently working on:** **CitizenSafe** (Crime Analytics) & **Price Optimization** (RL Agents).
+- 🌱 **Currently learning:** Advanced **Cloud Architecting** & **Generative AI**.
+- 🏆 **Achievements:** Walmart Sparkathon 2025 Participant, AWS Academy Graduate.
+- ⚽ **Interests:** Football (FSI Team), Basketball, and Community Service (Afroz Shah Foundation).
 
-- 📫 How to reach me **ronit.shetty123456789@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ronit-shetty-343143264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronit shetty" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/RonitShetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronit shetty" height="30" width="40" /></a>
-</p>
+## 🛠 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ CitizenSafe** | **AI-Powered Crime Management Framework.** Created a synthetic dataset of **20,000 rows** of crime incidents in Mumbai to train predictive models for hotspot analysis and resource allocation. | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![ML](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat) ![Data](https://img.shields.io/badge/-Data%20Analytics-green?style=flat) |
+| **📈 Price Optimization** | **Dynamic Pricing System.** Integrating ML forecasting with **Reinforcement Learning (DQN, DDPG, PPO)** using Walmart sales data. Deployed agents in a custom Gym environment to simulate market behavior. | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![RL](https://img.shields.io/badge/-Reinforcement%20Learning-red?style=flat) ![Gym](https://img.shields.io/badge/-OpenAI%20Gym-white?style=flat) |
+| **✈️ Trip Planner** | **Microservices Travel Platform.** Engineered User, Itinerary, and Booking services. Integrated **Spring Cloud Gateway**, **Eureka Server**, and secured endpoints with **JWT**. Containerized with Docker & K8s. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white) |
+| **🛡️ PromptFence** | **LLM Security Framework.** Developed a system to detect and mitigate **Prompt Injection attacks** on Large Language Models using NLP techniques to sanitize user inputs. | ![NLP](https://img.shields.io/badge/-NLP-blue?style=flat) ![Security](https://img.shields.io/badge/-LLM%20Security-orange?style=flat) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) |
+| **🍎 NutriTrack** | **Android Fitness App.** Features AI-powered food scanning for nutritional analysis, BMI tracking, and step counting. Built with Firebase authentication. | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronitshetty&show_icons=true&locale=en&layout=compact" alt="ronitshetty" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitshetty&show_icons=true&locale=en" alt="ronitshetty" /></p>
+## 💻 Technical Skills
 
+### Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Frameworks & Cloud
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Data, ML & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+* **GenAI Powered Data Analytics Job Simulation** - Tata & Forage
+* **AWS Academy Graduate** - Cloud Architecting
+* **UiPath Academy** - Automation Developer Associate
+* **Basics in ML** - UniAthena & Cambridge International Qualifications
+* **Tableau & Power BI** - upGrad & UniAthena
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonitShetty&theme=radical&hide_border=false&count_private=true&show_icons=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitShetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RonitShetty&theme=radical&hide_border=false" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonitShetty/RonitShetty/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonitShetty/RonitShetty/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RonitShetty/RonitShetty/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/ronit-shetty-343143264">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ronit.shetty123456789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ronitshetty.github.io/">
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-FF5722?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=RonitShetty&icon=0&color=0" />
+</div>
