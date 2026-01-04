@@ -55,10 +55,7 @@ I actively participate in hackathons (like **Walmart Sparkathon 2025**) and enjo
 ---
 
 ## 📊 Coding Activity
-
-## 📊 Coding Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=RonitShetty&theme=radical&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitShetty&theme=radical&layout=compact)
+![Metrics](https://metrics.lecoq.io/RonitShetty?template=classic&config.timezone=Asia%2FKolkata)
 
 <br>
 
