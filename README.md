@@ -12,7 +12,7 @@ I am a **Computer Engineering Student (B.Tech)** at **NMIMS University** (CGPA: 
 
 I actively participate in hackathons (like **Walmart Sparkathon 2025**) and enjoy solving complex problems involving data analytics, security, and automation.
 
-- 🔭 **Currently working on:** **CitizenSafe** (Crime Analytics) & **Price Optimization** (RL Agents).
+- 🔭 **Currently working on:** **Optimizing projects**.
 - 🌱 **Currently learning:** Advanced **Cloud Architecting** & **Generative AI**.
 - 🏆 **Achievements:** Walmart Sparkathon 2025 Participant, AWS Academy Graduate.
 - ⚽ **Interests:** Football (FSI Team), Basketball, and Community Service (Afroz Shah Foundation).
@@ -68,14 +68,6 @@ I actively participate in hackathons (like **Walmart Sparkathon 2025**) and enjo
 </div>
 
 <br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonitShetty/RonitShetty/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonitShetty/RonitShetty/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RonitShetty/RonitShetty/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ## 🌐 Connect with Me
 <div align="center">
