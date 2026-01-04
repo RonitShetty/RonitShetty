@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29B5E8&background=232F3E00&center=true&vCenter=true&width=435&lines=Data+Science+%26+AI+Enthusiast;Building+Scalable+Microservices;Exploring+Generative+AI;Engineering+Student+%40+NMIMS" alt="Typing SVG" />
   </a>
 </div>
-### 👋 Who am I?
+## 👋 Who am I?
 
 I am a **Computer Engineering Student (B.Tech)** at **NMIMS University** (CGPA: 3.69/4) with a strong foundation in building scalable systems. My expertise ranges from **Microservices Architecture** using Spring Boot to **Machine Learning** pipelines and **Reinforcement Learning** models.
 
