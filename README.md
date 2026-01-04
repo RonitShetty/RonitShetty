@@ -56,10 +56,9 @@ I actively participate in hackathons (like **Walmart Sparkathon 2025**) and enjo
 
 ## 📊 Coding Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonitShetty&theme=radical&hide_border=false&show_icons=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitShetty&theme=radical&hide_border=false&include_all_commits=true&layout=compact" height="180" alt="languages graph" />
-</div>
+## 📊 Coding Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=RonitShetty&theme=radical&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitShetty&theme=radical&layout=compact)
 
 <br>
 
