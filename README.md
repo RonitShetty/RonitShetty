@@ -1,7 +1,7 @@
 # 💫 About Me: Ronit Shetty
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ronit%20Shetty&fontSize=80&fontAlignY=35&desc=B.Tech%20Computer%20Engineering%20%40%20NMIMS&descAlignY=60&descAlign=50" alt="Ronit Shetty Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ronit%20Shetty&fontSize=80&fontAlignY=35&desc=Computer%20Engineer&descAlignY=60&descAlign=50" alt="Ronit Shetty Header"/>
 </div>
 
 <br>
